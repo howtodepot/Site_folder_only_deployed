@@ -1,0 +1,1 @@
+Sitemap: http://localhost:4000/Site_folder_only_deployed/sitemap.xml
